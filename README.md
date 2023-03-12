@@ -8,9 +8,9 @@ Inspired by our keynote speaker, we decide to create something meaningful. We en
 - We will show an intuitive bar chart of users' carbon footprint historical values.
 
 ## How we built it
-UI/UX Design: Figma, drawing pad.
-Frontend Dev: HTML, CSS, React, Next.js.
-Backend Dev: C#, ASP.Net, Postgresql, PgAdmin 4.
+- UI/UX Design: Figma, drawing pad.
+- Frontend Dev: HTML, CSS, React, Next.js.
+- Backend Dev: C#, ASP.Net, Postgresql, PgAdmin 4.
 
 ## Challenges we ran into
 - We had a hard time finalizing our database schema due to our MacOS limiting us from using SQL Express, we need to switch to PostgreSQL using PgAdmin which is hard to set up and connect to the .Net environment.

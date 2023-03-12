@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "/RRypsYOriBZkCOvCymVUOYrjZwBHBsrToyUJ4eXlRk0TQdtNQPg9hau9ZAG1NJ4vzQeFhUjW96oKFPzRCXq+A==",
+  "dgSpecHash": "diQpeJAdLBb/xfyjVYcUYKTXyEvH4TjGLVQBevXzUyylW7qZBDRG53oeyIsdqB5famfnwQBT0PekIXiDrLab2Q==",
   "success": true,
   "projectFilePath": "/Users/wangyuanhui/Developer/EcoTeleport/EcoTeleport/EcoTeleport.csproj",
   "expectedPackageFiles": [
+    "/Users/wangyuanhui/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/wangyuanhui/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "/Users/wangyuanhui/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/wangyuanhui/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/microsoft.data.sqlclient/5.1.0/microsoft.data.sqlclient.5.1.0.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/microsoft.data.sqlclient.sni.runtime/5.1.0/microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/microsoft.entityframeworkcore/8.0.0-preview.1.23111.4/microsoft.entityframeworkcore.8.0.0-preview.1.23111.4.nupkg.sha512",
@@ -71,7 +73,19 @@
     "/Users/wangyuanhui/.nuget/packages/system.text.encodings.web/8.0.0-preview.1.23110.8/system.text.encodings.web.8.0.0-preview.1.23110.8.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/system.text.json/8.0.0-preview.1.23110.8/system.text.json.8.0.0-preview.1.23110.8.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/wangyuanhui/.nuget/packages/system.web.mvc.extensions/1.1.1.2/system.web.mvc.extensions.1.1.1.2.nupkg.sha512",
     "/Users/wangyuanhui/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Web.Mvc.Extensions 1.1.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Web.Mvc.Extensions",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

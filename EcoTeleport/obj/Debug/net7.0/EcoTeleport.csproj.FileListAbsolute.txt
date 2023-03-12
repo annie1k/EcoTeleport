@@ -87,3 +87,6 @@
 /Users/wangyuanhui/Developer/EcoTeleport/EcoTeleport/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/wangyuanhui/Developer/EcoTeleport/EcoTeleport/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
 /Users/wangyuanhui/Developer/EcoTeleport/EcoTeleport/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/wangyuanhui/Developer/EcoTeleport/EcoTeleport/bin/Debug/net7.0/System.Web.Mvc.Extensions.dll
+/Users/wangyuanhui/Developer/EcoTeleport/EcoTeleport/bin/Debug/net7.0/AutoMapper.dll
+/Users/wangyuanhui/Developer/EcoTeleport/EcoTeleport/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
